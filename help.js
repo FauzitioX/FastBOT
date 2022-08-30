@@ -332,8 +332,10 @@ return `*DONASI BOT*
 
 *E-walet Monay :*
 ➭ Dana : 0857-9167-7204
-➭ Ovo : -
-➭ Gopay : -
-➭ Bca : -
+➭ Ovo : 0857-9167-7204
+➭ Gopay : 0857-9167-7204
+➭ Bca : 3570844228
     
-*Qris All Payment : -
+*Qris All Payment :*
+https://telegra.ph/qrallpayment-08-30-2`
+}
